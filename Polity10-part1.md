@@ -4,17 +4,17 @@
 ---
 
 ## Table of Contents
-1. [Judicial Appointments - Supreme Court](#judicial-appointments---supreme-court)
-2. [Supreme Court Advisory Jurisdiction](#supreme-court-advisory-jurisdiction)
-3. [No Confidence Motion](#no-confidence-motion)
-4. [Appointment and Removal of Ministers](#appointment-and-removal-of-ministers)
-5. [Contempt of Court](#contempt-of-court)
-6. [Appointment and Removal by Governor and President](#appointment-and-removal-by-governor-and-president)
-7. [Removal of High Court Judge](#removal-of-high-court-judge)
-8. [Types of Constitutional Amendments](#types-of-constitutional-amendments)
-9. [Cabinet System](#cabinet-system)
-10. [Governor's Mandatory Reservation for Presidential Consideration](#governors-mandatory-reservation-for-presidential-consideration)
-11. [Quick Revision Tables](#quick-revision-tables)
+1. [Judicial Appointments - Supreme Court](#1-judicial-appointments---supreme-court)
+2. [Supreme Court Advisory Jurisdiction](#2-supreme-court-advisory-jurisdiction)
+3. [No Confidence Motion](#3-no-confidence-motion)
+4. [Appointment and Removal of Ministers](#4-appointment-and-removal-of-ministers)
+5. [Contempt of Court](#5-contempt-of-court)
+6. [Appointment and Removal by Governor and President](#6-appointment-and-removal-by-governor-and-president)
+7. [Removal of High Court Judge](#7-removal-of-high-court-judge)
+8. [Types of Constitutional Amendments](#8-types-of-constitutional-amendments)
+9. [Cabinet System](#9-cabinet-system)
+10. [Governor's Mandatory Reservation for Presidential Consideration](#10-governors-mandatory-reservation-for-presidential-consideration)
+11. [Quick Revision Tables](#11-quick-revision-tables)
 
 ---
 
